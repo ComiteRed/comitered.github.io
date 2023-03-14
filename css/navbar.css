@@ -1,3 +1,5 @@
+
+
 .navBar {
     background-color: #D30423;
     background-image: url("../img/decoratorHorizontal.png");
@@ -129,6 +131,14 @@ nav #icon {
     margin-right: 40px;
     display: none;
 }
+
+
+
+
+
+
+
+
 
 /* esto es para hacer la cajita del menu, lo malo es que el texto aparece debajo :/ */
 .box {
